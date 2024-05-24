@@ -104,5 +104,15 @@ body {
     body {
         height: 100vh;
     }
+    
+}
 
+@media(max-width: 480px){
+  .logo {
+    padding: 10px 50px;
+  }
+  
+  .pesquisar__input {
+    width: 200px;
+  }
 }
